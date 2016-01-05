@@ -24,7 +24,7 @@
 	
 	    	       <key>url</key>
 
-	    	       <string>http://172.16.32.104:9999/MH_WardRound.ipa</string>
+	    	       <string>http://192.168.1.115:9999/MH_WardRound.ipa</string>
 	
 	    	    </dict>
 			
